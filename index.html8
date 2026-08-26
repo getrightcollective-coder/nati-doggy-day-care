@@ -1,1 +1,51 @@
-pawswithnati.carrd.co
+<section class="gallery" id="galeria">
+
+    <div class="gallery-title">
+
+        <div class="label"
+             data-es="Galería"
+             data-en="Gallery">
+            Galería
+        </div>
+
+        <h2 class="heading"
+            data-es="Mira dónde comienza tu próxima escapada."
+            data-en="See where your next escape begins.">
+
+            Mira dónde comienza
+            tu próxima escapada.
+
+        </h2>
+
+    </div>
+
+    <div class="gallery-grid">
+
+        <div class="gallery-item large">
+            <img src="images/santorini-1.jpg"
+                 alt="Casa Finca Santorini">
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/santorini-2.jpg"
+                 alt="Casa Finca Santorini">
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/santorini-3.jpg"
+                 alt="Casa Finca Santorini">
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/santorini-4.jpg"
+                 alt="Casa Finca Santorini">
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/santorini-5.jpg"
+                 alt="Casa Finca Santorini">
+        </div>
+
+    </div>
+
+</section>
